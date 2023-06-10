@@ -9,4 +9,7 @@ You can click the Preview link to take a look at your changes.
 --->
 I dont code, I only type.
 
+<b> forgotten and remembered </b>
+
 <i> transferring my repos... </i>
+
