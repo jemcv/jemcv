@@ -48,4 +48,4 @@ About me.
 - 60 percent keyboard user, it's tough.
 
 
-<i> transferring my repos... since i remembered my old account </i>
+<i> transferring my repos... since i remembered this account </i>
