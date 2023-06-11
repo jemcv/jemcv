@@ -12,8 +12,9 @@ You can click the Preview link to take a look at your changes.
 
 :goberserk:
 
-<b> forgotten and remembered </b>
-
+<!-- <b> forgotten and remembered </b> -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=16&pause=1000&color=000000&width=435&height=30&lines=forgotten+and+remembered)](https://git.io/typing-svg)
+<br>
 I dont code, I only type.
 
 Hey! I'm Jem. Linux Enthusiast. Currently living inside the terminal.
