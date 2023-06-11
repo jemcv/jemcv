@@ -33,9 +33,11 @@ Hey! I'm Jem. Linux Enthusiast. Currently living inside the terminal.
 
 Programming Languages I  have used in the past years.
 
-[![Languange: Javascript](https://img.shields.io/badge/LANGUANGE-Python-blue?style=flat-square&logo=python)](https://python.org) 
+[![Languange: Python](https://img.shields.io/badge/LANGUANGE-Python-blue?style=flat-square&logo=python)](https://python.org) 
 <br>
-[![Languange: Python](https://img.shields.io/badge/LANGUANGE-Javascript-yellow?style=flat-square&logo=javascript)](https://python.org) 
+![Languange: Javascript](https://img.shields.io/badge/LANGUANGE-Javascript-yellow?style=flat-square&logo=javascript)
+<br>
+[![Languange: PHP](https://img.shields.io/badge/LANGUANGE-PHP-lightgrey?style=flat-square&logo=php)](https://php.net) 
 
 
 When I have free time, I'm learning
