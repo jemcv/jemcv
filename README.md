@@ -49,7 +49,7 @@ When I have free time, I'm learning
 [![Languange: Zig](https://img.shields.io/badge/LANGUANGE-Zig-yellow?style=flat-square&logo=zig)](https://python.org) 
 -->
 
-About me.
+About me
 
 - I don't like coding in java.
 - Never thought of becoming a programmer.
