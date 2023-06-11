@@ -43,7 +43,7 @@ Programming Languages I  have used in the past years.
 
 When I have free time, I'm learning
 
-[![Languange: Rust](https://img.shields.io/badge/LANGUANGE-Rust-orange?style=flat-square&logo=rust)](https://[python.org](https://www.rust-lang.org/)) 
+[![Languange: Rust](https://img.shields.io/badge/LANGUANGE-Rust-orange?style=flat-square&logo=rust)](https://www.rust-lang.org/)
 <br>
 <!-- 
 [![Languange: Zig](https://img.shields.io/badge/LANGUANGE-Zig-yellow?style=flat-square&logo=zig)](https://python.org) 
