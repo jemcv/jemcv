@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 I dont code, I only type.
 
-Hey! I'm Jem. Linux Enthusiast. Currently living inside the terminal.
+Hey! I'm Jem. IT Student | Linux Enthusiast. Currently living inside the terminal.
 
 [![WM: DWM](https://img.shields.io/badge/WM-DWM-white?style=flat-square&logo=dwm)](https://dwm.suckless.org)
 <br>
