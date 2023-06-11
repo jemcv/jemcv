@@ -22,7 +22,7 @@ Hey! I'm Jem. Linux Enthusiast. Currently living inside the terminal.
 <br>
 [![Editor: Neovim](https://img.shields.io/badge/EDITOR-Neovim-brightgreen?style=flat-square&logo=neovim)](https://neovim.io)
 <br>
-[![Terminal: Alacritty](https://img.shields.io/badge/TERMINAL-Alacritty-orange?style=flat-square&logo=alacritty)](https://neovim.io)
+[![Terminal: Alacritty](https://img.shields.io/badge/TERMINAL-Alacritty-orange?style=flat-square&logo=alacritty)](https://alacritty.org)
 <br>
 [![Multiplexer: Tmux](https://img.shields.io/badge/MULTIPLEXER-Tmux-black?style=flat-square&logo=tmux)](https://tmux.github.io)
 <br>
