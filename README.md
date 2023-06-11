@@ -34,19 +34,19 @@ Hey! I'm Jem. Linux Enthusiast. Currently living inside the terminal.
 
 Programming Languages I  have used in the past years.
 
-[![Languange: Python](https://img.shields.io/badge/LANGUANGE-Python-blue?style=flat-square&logo=python)](https://python.org) 
+[![Language: Python](https://img.shields.io/badge/LANGUAGE-Python-blue?style=flat-square&logo=python)](https://python.org) 
 <br>
-![Languange: Javascript](https://img.shields.io/badge/LANGUANGE-Javascript-yellow?style=flat-square&logo=javascript)
+![Language: Javascript](https://img.shields.io/badge/LANGUAGE-Javascript-yellow?style=flat-square&logo=javascript)
 <br>
-[![Languange: PHP](https://img.shields.io/badge/LANGUANGE-PHP-lightgrey?style=flat-square&logo=php)](https://php.net) 
+[![Language: PHP](https://img.shields.io/badge/LANGUAGE-PHP-lightgrey?style=flat-square&logo=php)](https://php.net) 
 
 
 When I have free time, I'm learning
 
-[![Languange: Rust](https://img.shields.io/badge/LANGUANGE-Rust-orange?style=flat-square&logo=rust)](https://www.rust-lang.org/)
+[![Language: Rust](https://img.shields.io/badge/LANGUAGE-Rust-orange?style=flat-square&logo=rust)](https://www.rust-lang.org/)
 <br>
 <!-- 
-[![Languange: Zig](https://img.shields.io/badge/LANGUANGE-Zig-yellow?style=flat-square&logo=zig)](https://python.org) 
+[![Language: Zig](https://img.shields.io/badge/LANGUAGE-Zig-yellow?style=flat-square&logo=zig)](https://python.org) 
 -->
 
 About me
