@@ -32,7 +32,7 @@ Hey! I'm Jem. IT Student | Linux Enthusiast. Currently living inside the termina
 [![Multiplexer: Tmux](https://img.shields.io/badge/MULTIPLEXER-Tmux-black?style=flat-square&logo=tmux)](https://tmux.github.io)
 <br>
 
-Programming Languages I  have used in the past years.
+Programming Languages I have used in the past years
 
 [![Language: Python](https://img.shields.io/badge/LANGUAGE-Python-blue?style=flat-square&logo=python)](https://python.org) 
 <br>
