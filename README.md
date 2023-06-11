@@ -21,7 +21,7 @@ Hey! I'm Jem. IT Student | Linux Enthusiast. Currently living inside the termina
 
 [![WM: DWM](https://img.shields.io/badge/WM-DWM-white?style=flat-square&logo=dwm)](https://dwm.suckless.org)
 <br>
-[![DE: Gnome](https://img.shields.io/badge/DE-Gnome-lightblue?style=flat-square&logo=gnome)](https://dwm.suckless.org)
+[![DE: Gnome](https://img.shields.io/badge/DE-Gnome-lightblue?style=flat-square&logo=gnome)](https://gnome.org)
 <br>
 [![OS: ArchLinux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
 <br>
