@@ -20,10 +20,15 @@ I dont code, I only type.
 Hey! I'm Jem. IT Student | Linux Enthusiast. Currently living inside the terminal.
 
 [![WM: DWM](https://img.shields.io/badge/WM-DWM-white?style=flat-square&logo=dwm)](https://dwm.suckless.org)
+<br>
 [![DE: Gnome](https://img.shields.io/badge/DE-Gnome-lightblue?style=flat-square&logo=gnome)](https://gnome.org)
+<br>
 [![OS: ArchLinux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
+<br>
 [![Editor: Neovim](https://img.shields.io/badge/EDITOR-Neovim-brightgreen?style=flat-square&logo=neovim)](https://neovim.io)
+<br>
 [![Terminal: Alacritty](https://img.shields.io/badge/TERMINAL-Alacritty-orange?style=flat-square&logo=alacritty)](https://alacritty.org)
+<br>
 [![Multiplexer: Tmux](https://img.shields.io/badge/MULTIPLEXER-Tmux-black?style=flat-square&logo=tmux)](https://tmux.github.io)
 
 Programming Languages I have used in the past years
