@@ -12,12 +12,13 @@ You can click the Preview link to take a look at your changes.
 
 :goberserk:
 
-<!-- <b> forgotten and remembered </b> -->
+<!-- <b> forgotten and remembered | I dont code, I only type.</b> -->
+<!-- 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=16&pause=1000&color=000000&width=435&height=30&lines=forgotten+and+remembered)](https://git.io/typing-svg)
+-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=16&pause=1000&color=000000&width=435&height=30&lines=I+dont+code%2C+I+only+type.)](https://git.io/typing-svg)
 <br>
-I dont code, I only type.
-
-Hey! I'm Jem. IT Student | Linux Enthusiast. Currently living inside the terminal.
+Hey! I'm Jem. IT Student | Linux Enthusiast. Living inside the terminal.
 <!-- 
 [![WM: DWM](https://img.shields.io/badge/WM-DWM-white?style=flat-square&logo=dwm)](https://dwm.suckless.org)
 <br>
@@ -54,4 +55,4 @@ Music
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ntxmzr3nujrwdmibfuejhfdcmi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=000000&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31ntxmzr3nujrwdmibfuejhfdcmi&redirect=true)
 <br>
-<i> transferring my repos... since i remembered this account </i>
+<i> transferring my repos... </i>
