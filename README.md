@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=16&pause=1000&color=000000&width=435&height=30&lines=I+dont+code%2C+I+only+type.)](https://git.io/typing-svg)
 <br>
-Hey! I'm Jem. IT Student | Linux Enthusiast. Living inside the terminal.
+Hey! I'm Jem. IT Student & Linux Enthusiast. Currently living inside the terminal.
 <!-- 
 [![WM: DWM](https://img.shields.io/badge/WM-DWM-white?style=flat-square&logo=dwm)](https://dwm.suckless.org)
 <br>
