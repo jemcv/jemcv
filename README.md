@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 <!-- 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=16&pause=1000&color=000000&width=435&height=30&lines=forgotten+and+remembered)](https://git.io/typing-svg)
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=16&pause=1000&color=000000&width=435&height=30&lines=I+dont+code%2C+I+only+type.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=16&pause=1000&color=778588&width=435&lines=I+dont+code%2C+I+only+type.)](https://git.io/typing-svg)
 <br>
 Hey! I'm Jem. IT Student & Linux Enthusiast. Currently living inside the terminal.
 <!-- 
