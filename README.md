@@ -28,7 +28,7 @@ Hey! I'm Jem. IT Student & Linux Enthusiast. Currently living inside the termina
 [![OS: ArchLinux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
 [![Editor: Neovim](https://img.shields.io/badge/EDITOR-Neovim-brightgreen?style=flat-square&logo=neovim)](https://neovim.io)
 [![Terminal: Alacritty](https://img.shields.io/badge/TERMINAL-Alacritty-orange?style=flat-square&logo=alacritty)](https://alacritty.org)
-[![Multiplexer: Tmux](https://img.shields.io/badge/MULTIPLEXER-Tmux-green?style=flat-square&logo=tmux)](https://tmux.github.io)
+[![Multiplexer: Tmux](https://img.shields.io/badge/MULTIPLEXER-Tmux-darkgreen?style=flat-square&logo=tmux)](https://tmux.github.io)
 
 Programming Languages I have used in the past years
 
