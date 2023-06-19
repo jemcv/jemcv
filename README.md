@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=16&pause=1000&color=778588&width=435&lines=I+dont+code%2C+I+only+type.)](https://git.io/typing-svg)
 <br>
-Hey! I'm Jem. IT Student & Linux Enthusiast. Currently living inside the terminal.
+Hey! I'm Jem. Living inside the terminal.
 <!-- 
 [![WM: DWM](https://img.shields.io/badge/WM-DWM-white?style=flat-square&logo=dwm)](https://dwm.suckless.org)
 <br>
@@ -48,8 +48,8 @@ When I have free time, I'm learning
 About me
 
 - I don't like coding in java.
-- Never thought of becoming a programmer.
 - 60 percent keyboard user, it's tough.
+- IT Student
 
 Music
 
