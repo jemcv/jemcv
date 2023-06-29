@@ -46,8 +46,8 @@ When I have free time, I'm learning
 About me
 
 - I don't like coding in java.
-- 60 percent keyboard user, it's tough.
-- IT Student
+- 60 percent keyboard user.
+- IT Student.
 
 Music
 
