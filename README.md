@@ -18,15 +18,11 @@ You can click the Preview link to take a look at your changes.
 -->
 Hey! I'm Jem. Living inside the terminal.
 
-[![WM: dwm](https://img.shields.io/badge/WM-dwm-white?style=flat-square&logo=dwm)](https://dwm.suckless.org)
-<br>
-[![OS: ArchLinux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
-<br>
-[![Editor: Neovim](https://img.shields.io/badge/EDITOR-Neovim-brightgreen?style=flat-square&logo=neovim)](https://neovim.io)
-<br>
-[![Terminal: Alacritty](https://img.shields.io/badge/TERMINAL-Alacritty-orange?style=flat-square&logo=alacritty)](https://alacritty.org)
-<br>
-[![Multiplexer: Tmux](https://img.shields.io/badge/MULTIPLEXER-Tmux-darkgreen?style=flat-square&logo=tmux)](https://tmux.github.io)
+- [![WM: dwm](https://img.shields.io/badge/WM-dwm-white?style=flat-square&logo=dwm)](https://dwm.suckless.org)
+- [![OS: ArchLinux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
+- [![Editor: Neovim](https://img.shields.io/badge/EDITOR-Neovim-brightgreen?style=flat-square&logo=neovim)](https://neovim.io)
+- [![Terminal: Alacritty](https://img.shields.io/badge/TERMINAL-Alacritty-orange?style=flat-square&logo=alacritty)](https://alacritty.org)
+- [![Multiplexer: Tmux](https://img.shields.io/badge/MULTIPLEXER-Tmux-darkgreen?style=flat-square&logo=tmux)](https://tmux.github.io)
 
 <!-- 
 [![WM: DWM](https://img.shields.io/badge/WM-DWM-white?style=flat-square&logo=dwm)](https://dwm.suckless.org)
